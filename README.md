@@ -14,7 +14,7 @@ A simple and clean Flutter application that displays real-time weather informati
 
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- [OpenMeteo API](https://open-meteo.com/)
 - [http](https://pub.dev/packages/http) package for network requests
 - [geolocator](https://pub.dev/packages/geolocator) for location access *(optional, if used)*
 
@@ -36,6 +36,9 @@ git clone https://github.com/SShreeC/weather-app
 cd weather-app-flutter
 
 2. Install dependencies:
+```bash
 flutter pub get
 
-3.Run the app:flutter run
+3.Run the app:
+```bash
+flutter run
