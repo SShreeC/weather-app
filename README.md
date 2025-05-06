@@ -1,6 +1,6 @@
 # 🌤️ Weather App (Flutter)
 
-A simple and clean Flutter application that displays real-time weather information using OpenWeatherMap API. This app provides current temperature, weather description, humidity, wind speed, and location-based data.
+A simple and clean Flutter application that displays real-time weather information using OpenMeteo API. This app provides current temperature, weather description, humidity, wind speed, and location-based data.
 
 ## 📱 Features
 
@@ -36,9 +36,11 @@ git clone https://github.com/SShreeC/weather-app
 cd weather-app-flutter
 
 2. Install dependencies:
+
 ```bash
 flutter pub get
 
-3.Run the app:
+3. Run app:
+
 ```bash
 flutter run
